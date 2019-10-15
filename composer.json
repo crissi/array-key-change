@@ -1,0 +1,24 @@
+{
+	"name": "crissi/helpers",
+	"description": "PHP Helpers",
+	"type": "library",
+	"keywords": ["change key", "array"],
+	"homepage": "https://github.com/crissi/helpers",
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/crissi/helpers/issues",
+		"source": "https://github.com/crissi/helpers/"
+	},
+	"require": {
+		"php": ">=7.0.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~7.0|~8.0"
+	},
+    "autoload": {
+        "psr-4": {
+        	"Crissi\\Helpers\\": "src/"
+        }
+    }
+}
+
