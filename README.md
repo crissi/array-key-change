@@ -1,15 +1,3 @@
-Helpers
-===============
-Version 1.0.0
-
-MIT Open Source license applies.
-
-Introduction
-------------
-PHP Helpers
-
-**ArrayKeyChange**
-
 *Easily change keys in a array of any depth*
 
 Example:
