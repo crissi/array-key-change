@@ -53,8 +53,3 @@ Result:
 > Use skipMissingPaths() to avoid errors on missing keys
 
 > Use the star-operator (*) to traverse sequential arrays
-
-Changes
--------
-### 1.0
-*	Initial public release
