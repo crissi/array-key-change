@@ -1,5 +1,5 @@
 <?php
-namespace Crissi\Helpers;
+namespace Crissi\ArrayKeyChange;
 
 use InvalidArgumentException;
 

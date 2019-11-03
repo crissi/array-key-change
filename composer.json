@@ -1,13 +1,13 @@
 {
-	"name": "crissi/helpers",
-	"description": "PHP Helpers",
+	"name": "crissi/array-key-change",
+	"description": "Easily change keys in a array of any depth",
 	"type": "library",
 	"keywords": ["change key", "array"],
-	"homepage": "https://github.com/crissi/helpers",
+	"homepage": "https://github.com/crissi/array-key-change",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/crissi/helpers/issues",
-		"source": "https://github.com/crissi/helpers/"
+		"issues": "https://github.com/crissi/array-key-change/issues",
+		"source": "https://github.com/crissi/array-key-change/"
 	},
 	"require": {
 		"php": ">=7.0.0"
@@ -17,7 +17,7 @@
 	},
     "autoload": {
         "psr-4": {
-        	"Crissi\\Helpers\\": "src/"
+        	"Crissi\\ArrayKeyChange\\": "src/"
         }
     }
 }

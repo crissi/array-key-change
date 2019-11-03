@@ -1,7 +1,9 @@
 <?php
+namespace Crissi\ArrayKeyChange;
 
 use PHPUnit\Framework\TestCase;
-use Crissi\Helpers\ArrayKeyChange;
+use Crissi\ArrayKeyChange\ArrayKeyChange;
+use InvalidArgumentException;
 
 class ChangeKeyTest extends TestCase
 {
